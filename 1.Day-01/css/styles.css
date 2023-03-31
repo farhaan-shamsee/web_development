@@ -1,0 +1,31 @@
+/* below is the external CSS code. */
+body {
+  background-color: #eaf6f6;
+}
+hr {
+  /* background-color: #eaf6f6; */
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  /* border-top: dotted; */
+  /* for dotted border */
+  height: 0px;
+  width: 10%;
+}
+
+h1 {
+    font-family: cursive;
+    color: #66BFBF;
+}
+h3 {
+    font-family: monospace;
+    font-size: x-large;
+    color: #66BFBF;
+}
+h2 {
+    font-family: monospace;
+    font-size: x-large;
+    color: #66BFBF;
+}
+ 
